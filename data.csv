@@ -1,0 +1,8 @@
+user_id,item_id,action
+1,101,view
+1,102,click
+1,103,purchase
+2,101,view
+2,104,click
+3,105,view
+3,101,purchase
